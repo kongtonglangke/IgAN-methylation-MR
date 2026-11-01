@@ -1,0 +1,5 @@
+options(BioC_mirror = "https://mirrors.tuna.tsinghua.edu.cn/bioconductor")
+options(repos = c(CRAN = "https://mirrors.tuna.tsinghua.edu.cn/CRAN/"))
+if (!requireNamespace("BiocManager", quietly = TRUE)) install.packages("BiocManager")
+BiocManager::install("IlluminaHumanMethylation450kanno.ilmn12.hg19", ask = FALSE, update = FALSE)
+cat("INSTALLED:", requireNamespace("IlluminaHumanMethylation450kanno.ilmn12.hg19", quietly = TRUE), "\n")

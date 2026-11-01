@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite both the paper and this repository."
+title: "Code and derived data for: When single-instrument methylation MR is uninformative"
+abstract: >-
+  Analysis code, derived result tables and figure source files for a methodological
+  reanalysis of single-instrument methylation Mendelian randomization at IgA
+  nephropathy susceptibility loci.
+authors:
+  - family-names: Wang
+    given-names: Yan
+    affiliation: "Department of Nephrology, Affiliated Hospital of Gansu Medical College, Pingliang, Gansu 744000, China"
+version: 1.0.0
+date-released: "2026-11-01"
+license: MIT
+repository-code: "https://github.com/ACCOUNT/REPOSITORY"

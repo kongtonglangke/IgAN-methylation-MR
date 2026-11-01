@@ -1,0 +1,3 @@
+region	cpg	cpg_pos	n_unique_peak	n_blood_peak	n_peak_covering_cpg	n_blood_peak_covering_cpg	min_dist_all_bp	min_dist_blood_bp	blood_B	blood_T	blood_myeloid	inside_B	inside_T	inside_myeloid
+DEFA1_8p23	cg00705004	6970292	689	188	3	0	4	192	9	8	105	0	0	0
+HORMAD2_22q12	cg00539347	30196307	12133	3346	8397	1752	0	0	272	786	849	153	743	564

@@ -1,0 +1,8 @@
+region	n_taxa	n_snp	max_snp_per_taxon	min_p
+DEFA1_8p23	0	0	0	nan
+HORMAD2_22q12	1	6	6	3.331e-06
+CFH_CFHR_1q32	0	0	0	nan
+ITGAM_ITGAX_16p11	0	0	0	nan
+MADCAM1_19p13	7	19	13	3.74e-09
+ST6GAL1_3q27	3	10	8	1.675e-07
+TNFRSF13B_17p11	3	8	4	1.261e-06

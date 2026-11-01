@@ -1,0 +1,32 @@
+[
+ {
+  "gene": "DEFA1",
+  "lead": "rs2738048",
+  "n_cpg": 108,
+  "n_hits": 1,
+  "n_sig": 1,
+  "n_sub": 1,
+  "med_abs_beta": 0.6239596,
+  "n_distinct_lead": 96
+ },
+ {
+  "gene": "HORMAD2",
+  "lead": "rs12537",
+  "n_cpg": 143,
+  "n_hits": 19,
+  "n_sig": 16,
+  "n_sub": 16,
+  "med_abs_beta": 0.24027515,
+  "n_distinct_lead": 134
+ },
+ {
+  "gene": "CFH",
+  "lead": "rs6677604",
+  "n_cpg": 23,
+  "n_hits": 8,
+  "n_sig": 6,
+  "n_sub": 7,
+  "med_abs_beta": 0.37295995,
+  "n_distinct_lead": 23
+ }
+]

@@ -1,0 +1,10 @@
+data/
+logs/
+*.bgz
+*.bgz.tbi
+__pycache__/
+.Rhistory
+.RData
+*.docx
+~$*
+.DS_Store

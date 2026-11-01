@@ -1,0 +1,2 @@
+timepoint	snp	snp_chr	snp_pos	a1	a2	maf	cpg	cpg_chr	cpg_pos	beta	tstat	effect_size	pval	trans
+Birth	rs10086568	8	6900336	A	G	0.319	cg04636166	8	6914420	0.29243	6.26722	0.02638	6.12e-10	N

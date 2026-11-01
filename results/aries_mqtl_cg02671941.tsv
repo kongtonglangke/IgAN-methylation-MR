@@ -1,0 +1,2 @@
+timepoint	snp	snp_chr	snp_pos	a1	a2	maf	cpg	cpg_chr	cpg_pos	beta	tstat	effect_size	pval	trans
+Childhood	rs148732613	3	30878432	I	R	0.046	cg02671941	17	16849388	0.45260	5.42178	0.03104	7.74e-08	Y
