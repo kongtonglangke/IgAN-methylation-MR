@@ -1,4 +1,4 @@
-# Supplementary Table S1 — Microbiota instrument coverage at the 19 colocalization CpGs
+# Supplementary Table S3 — Microbiota instrument coverage at the 19 colocalization CpGs
 
 Exposure side: 456 independent MiBioGen instrument SNPs (211 taxa, genome-wide significant, p < 1e-5, clumped).
 Mediator side: ARIES/mQTLdb significant cis-mQTL SNPs (p < 1e-5) at each CpG, retrieved per CpG.
@@ -39,7 +39,8 @@ A pair is testable only if the same SNP appears on both sides.
 | ST6GAL1 3q27 | 3 | 10 | 8 | 1.675e-07 |
 | TNFRSF13B 17p11 | 3 | 8 | 4 | 1.261e-06 |
 
-Six of seven regions carry at least one microbiota instrument, but no instrument reaches any of the 19 target CpGs.
-The single exception is DEFA1 (8p23.1), where no microbiota instrument exists at all.
+Four of the seven regions carry at least one microbiota instrument, but no instrument reaches any of the 19 target CpGs.
+The three remaining regions (CFH/CFHR 1q32, DEFA1 8p23, ITGAM/ITGAX 16p11) have no microbiota instrument within the window at all.
 
 Source data: `results/g1_tool_cpg_overlap.tsv`, `results/g1_microbiota_region_summary.tsv`.
+Machine-readable version of the region-level table: `tables/TableS3_microbiota_coverage.tsv` (cited in Supplementary Table S3).

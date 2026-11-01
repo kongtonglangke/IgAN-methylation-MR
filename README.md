@@ -15,7 +15,7 @@ here; they are publicly available from their original sources, listed in `DATA_S
 | `scripts/` | 57 analysis and figure scripts (Python 3 and R) |
 | `results/` | 60 derived tables produced by those scripts |
 | `figures/` | Fig 1–8 as PDF (vector) and PNG (400 dpi) |
-| `tables/` | Supplementary Table S1 |
+| `tables/` | Supplementary Table S3 (microbiota instrument coverage), Markdown and machine-readable TSV |
 
 ## Figure map
 
@@ -39,7 +39,14 @@ Fig 2 and Fig 4 share one script because they derive from the same colocalizatio
 | Table 2 | `scripts/coloc_igan_mqtl.R` with `scripts/coloc_robustness.R` |
 | Table 3 | `scripts/fig5_defa1_cnv.R` (segmental duplication, structural variation, colocalization robustness) and `scripts/cnv_signature.py` (dose signature) |
 | Table 4 | Literature summary, no computation |
-| Table S1 | `scripts/g1_feasibility.py` |
+| Table S1 | `scripts/fig5_defa1_cnv.R` output (`results/fig5_segdup.tsv`), `scripts/coloc_cnv_sensitivity.R` (`results/coloc_cnv_sensitivity.tsv`) |
+| Table S2 | Literature summary, no computation |
+| Table S3 | `scripts/g1_feasibility.py` (`results/g1_tool_cpg_overlap.tsv`, `results/g1_microbiota_region_summary.tsv`), tabulated in `tables/` |
+| Table S4 | `scripts/coloc_prior_sensitivity.R` (`results/coloc_prior_sensitivity.tsv`) |
+
+Supplementary Tables S1, S2 and S4 are typeset in the manuscript's supplementary material; their source
+data are the `results/` files listed above. Table S3 is additionally provided here in machine-readable form
+because the supplementary material cites `TableS3_microbiota_coverage.tsv` as a file in this repository.
 
 ## Environment
 
